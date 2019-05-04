@@ -1,9 +1,0 @@
-numerical columns 
-
-new dataset with user id and their actions
-
-X and Y from purcahser and then we will run KNN nearest neighbours i.e; k = 5
-
-Buy Now 1 = Purchaser
-Buy Now 0 = Non Purchaser 
-
